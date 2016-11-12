@@ -22,7 +22,7 @@ router.get('/validation', function (req, res) {
     if (err) {
       res.send(err);
     } else {
-      res.send('Jwt validation succsess').status(200);
+      res.send(decoded).status(200);
     }
   });
 });
