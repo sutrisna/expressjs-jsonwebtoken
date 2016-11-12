@@ -26,5 +26,7 @@ router.get('/', function (req, res) {
   res.send(token);
 });
 ```
-### NPM jsonwebtoken by [Auth0](https://auth0.com)
-### Explore lebih lanjut kunjungi [auth0/node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)
+### NPM jsonwebtoken by 
+[Auth0](https://auth0.com)
+### Explore lebih lanjut kunjungi 
+[auth0/node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)
