@@ -2,9 +2,17 @@
 Implementasi JWT di Express JS
 
 # Install
-
+- Clone this project:
+```bash
+$ git clone https://github.com/sutrisna/expressjs-jsonwebtoken.git
+$ cd expressjs-jsonwebtoken
+```
+- Install NPM dependencies:
 ```bash
 $ npm install
+```
+- Running aplikasi:
+```bash
 $ node bin/www
 ```
 ### Gunakan rest client seperti postman
@@ -28,8 +36,8 @@ router.get('/', function (req, res) {
   res.send(token);
 });
 ```
-# NPM jsonwebtoken by 
+### NPM jsonwebtoken by 
 [Auth0](https://auth0.com)
 
-# Explore lebih lanjut kunjungi 
+### Explore lebih lanjut kunjungi 
 [auth0/node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)
