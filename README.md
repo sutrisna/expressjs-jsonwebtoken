@@ -43,4 +43,5 @@ router.get('/', function (req, res) {
 [auth0/node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)
 
 Jika tidak bisa sedekah dengan uang, maka bersedekahlah dengan ilmu pengetahuan
+
 Sutrisna 1453
